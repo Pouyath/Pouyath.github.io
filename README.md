@@ -1,31 +1,9 @@
-pouyath.github.io
-================================================================================
+# Tim Baker Development 
+![ReactJS Resume Website](readme.jpg?raw=true "ReactJS Resume Website")
+### <a href="http://timbakerdev.com/">Check It Out Here</a> 
 
-my personal website. MIT Licensed. Contains a copy of my resume, 
-as well as some links to Github. :octocat:
+## Description
+This is my personal resume website built with ReactJS. I am using my own React resume website template that can be found <a href="https://github.com/tbakerx/react-resume-template">HERE.</a>
 
-## Forking Note
-
-If you fork this repo, please change the **form action** to an email address you own before trying it out. [Thaaaanks!](https://i.imgur.com/TpBVEjv.jpg)
-
-```
-<form action="https://formspree.io/your-email@here.com" method="POST" class="form-horizontal" role="form">
-```
-
-Built using:
---------------------------------------------------------------------------------
-[HTML5](https://developers.google.com/web/)  
-[Bootstrap](http://getbootstrap.com/) for CSS  
-[jQuery](https://jquery.com/) for JS  
-[namecheap](https://www.namecheap.com/) for the awesome domain  
-[GitHub Pages](https://pages.github.com/) for hosting  
-[CloudFlare](https://www.cloudflare.com/) for the SSL cert and fancy green lock :lock:  
-[git](https://git-scm.com/) for source control
-
-Based on the
-[Creative Bootstrap theme](http://startbootstrap.com/template-overviews/creative/)
-from [Start Bootstrap](http://startbootstrap.com/).
-The theme is also MIT Licensed.
-
-View it here: [pouyath.github.io](https://pouyath.github.io/)
-
+## I'm looking for work
+I am currently travelling Southeast Asia following my University studies but I will be actively looking for work when my trip is over. My location preference is Victoria, BC as my girlfriend will return to school there after our travels but I am open to remote work and can potentially make other arrangements if the right job comes along. 
