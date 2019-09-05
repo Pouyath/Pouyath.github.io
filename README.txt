@@ -1,5 +1,2 @@
-repo for my personal website
 
-
-https://yimeichen.github.io/LizChen/
-
+My github blog code with LizChe
